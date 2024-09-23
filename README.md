@@ -1,1 +1,1 @@
-# Music Player React
+# MusicPlayerReact
