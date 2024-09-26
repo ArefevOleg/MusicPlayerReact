@@ -1,4 +1,5 @@
 import React from 'react';
+import {PlayList} from "./PlayList";
 
 export const Player = () => {
     return (
@@ -18,6 +19,7 @@ export const Player = () => {
                     <button></button>
                 </div>
             </div>
+            <PlayList />
         </div>
     )
 };
