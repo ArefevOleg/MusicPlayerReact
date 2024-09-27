@@ -17,6 +17,9 @@ export const Player = () => {
                     <button></button>
                     <button></button>
                     <button></button>
+                    <button></button>
+                    <button></button>
+                    <button></button>
                 </div>
             </div>
             <PlayList />
